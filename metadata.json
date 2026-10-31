@@ -1,0 +1,6 @@
+{
+  "name": "Shizuku Bridge",
+  "description": "Minimalist local HTTP bridge service for Shizuku shell execution and input automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
